@@ -4,8 +4,11 @@ a{
 
 body{
   display: flex
+    flex-direction:column
 }
 
 main{
   display: flex
+    flex-flow:row nowrap
+    flex: auto
 }
