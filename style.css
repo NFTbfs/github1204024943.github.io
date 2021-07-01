@@ -1,20 +1,17 @@
-/*a {
+a {
   color:green
 }
-*/
+
 
 body { 
     display: flex
     flex-direction:column
-      
 }
-
-
 
 main {
     display: flex
-    flex: auto
-   
+    flex: auto 
+      flex-direction:column
 }
 
 aside {
