@@ -4,24 +4,24 @@ a {
 
 
 body { 
-    display: flex
-    flex-direction:column
+    display: flex;
+    flex-direction:column;
 }
 
 main {
-    display: flex
-    flex: auto 
-    flex-direction:row
+    display: flex;
+    flex: auto ;
+    flex-direction:row;
 }
 
 aside {
-  flex:1 
-    flex-direction:row
+  flex:1 ;
+    flex-direction:row;
 }
 
 article {
-  flex:3
-    flex-direction:row
+  flex:3;
+    flex-direction:row;
 }
 
 
