@@ -1,33 +1,33 @@
-a {
+/*a {
   color:green
 }
+*/
 
-
-body {
+body { 
     display: flex
     flex-direction:column
-      justify-content:flex-start
+      
 }
 
 main {
     display: flex
-    flex-direction:row
     flex: auto
-    justify-content:flex-start
+   
 }
 
 aside {
-  flex: 1
-    order:0
+  flex:1
+   
     
 }
 
 article {
-  flex: 3
-    order:1
+  flex:3
+   
     
 }
 
-footer{
+/*footer{
   justify-content:flex-start
 }
+*/
