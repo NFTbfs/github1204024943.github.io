@@ -9,25 +9,20 @@ body {
       
 }
 
+
+
 main {
     display: flex
     flex: auto
-   
+    flex-direction:row
 }
 
 aside {
-  flex:1
-   
-    
+  flex:1 
 }
 
 article {
   flex:3
-   
-    
 }
 
-/*footer{
-  justify-content:flex-start
-}
-*/
+
