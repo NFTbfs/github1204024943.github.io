@@ -16,8 +16,10 @@ main {
 
 aside {
   flex: 1
+    order:0
 }
 
 article {
   flex: 3
+    order:1
 }
