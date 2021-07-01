@@ -1,3 +1,11 @@
-a {
+a{
   color:green
+}
+
+body{
+  display: flex
+}
+
+main{
+  display: flex
 }
