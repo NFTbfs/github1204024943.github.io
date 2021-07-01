@@ -14,7 +14,7 @@ body {
 main {
     display: flex
     flex: auto
-    flex-direction:row
+   
 }
 
 aside {
