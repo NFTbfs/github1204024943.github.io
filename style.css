@@ -6,20 +6,28 @@ a {
 body {
     display: flex
     flex-direction:column
+      justify-content:flex-start
 }
 
 main {
     display: flex
     flex-direction:row
     flex: auto
+    justify-content:flex-start
 }
 
 aside {
   flex: 1
     order:0
+    
 }
 
 article {
   flex: 3
     order:1
+    
+}
+
+footer{
+  justify-content:flex-start
 }
