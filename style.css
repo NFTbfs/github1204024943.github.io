@@ -12,7 +12,7 @@ header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RWAKk4
        background-position:center;
        background-size: cover;
        justify-content：flex-start;
-        height:150px;
+        height=150px;
         border: 2px solid black;}
 
 main {
