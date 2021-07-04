@@ -22,17 +22,16 @@ main {
 }
 
 aside {
-  flex:1 ;
-    flex-direction:row;
-  background-image:url('https://z3.ax1x.com/2021/07/04/RfL2tK.gif');
+  flex:1;
+  background-image:url('https://z3.ax1x.com/2021/07/04/RfOVc4.gif');
   background-position:center;
        background-size: cover;
-  color:#00FFFF;border: 2px solid white;
+  color:#00FFFF;border: 2px solid black;
 }
 
 article {
   flex:3;
-    flex-direction:row;
+  border: 2px solid black
 }
 
 
