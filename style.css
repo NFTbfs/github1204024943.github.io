@@ -2,7 +2,6 @@ a:hover {
   color:green
 }
 
-
 html,body { 
     display: flex;
     flex-direction:column;
@@ -18,7 +17,6 @@ header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RWAKk4
 main {
     display: flex;
     flex: auto ;
-    flex-direction:row;
 }
 
 aside {
