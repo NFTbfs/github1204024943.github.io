@@ -6,7 +6,6 @@ a:hover {
 html,body { 
     display: flex;
     flex-direction:column;
-    
       background: no-repeat center/80% url("http://img.netbian.com/file/2020/0712/496de8cd9a4a466befc8f8afb481b8ff.jpg")
 }
 
