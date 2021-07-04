@@ -6,7 +6,9 @@ a:hover {
 html,body { 
     display: flex;
     flex-direction:column;
-      background:linear-gradient(91deg,#f1eefc,#9dc6ff 70%,#a5bcff)
+    background-image:url('http://img.netbian.com/file/2020/0712/496de8cd9a4a466befc8f8afb481b8ff.jpg');
+    background-position:center;
+    background-size: cover;
 }
 
 header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RWAKk4.png');
