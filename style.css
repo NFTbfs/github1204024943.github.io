@@ -8,11 +8,10 @@ body {
     flex-direction:column;
 }
 
-header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RWAKk4.png');
+header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RfSvkR.png');
        background-position:center;
        background-size: cover;
        justify-content：flex-start;
-        
         border: 2px solid black;}
 
 main {
