@@ -7,7 +7,7 @@ html,body {
     display: flex;
     flex-direction:column;
     
-      background: no-repeat center/80% url("http://img.netbian.com/file/2020/0712/496de8cd9a4a466befc8f8afb481b8ff.jpg");
+      background: no-repeat center/80% url("http://img.netbian.com/file/2020/0712/496de8cd9a4a466befc8f8afb481b8ff.jpg")
 }
 
 header{display: flex;background-image:url('https://z3.ax1x.com/2021/07/04/RWAKk4.png');
