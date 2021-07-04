@@ -24,6 +24,10 @@ main {
 aside {
   flex:1 ;
     flex-direction:row;
+  background-image:url('https://z3.ax1x.com/2021/07/04/RfL2tK.gif');
+  background-position:center;
+       background-size: cover;
+  color:#00FFFF;border: 2px solid white;
 }
 
 article {
