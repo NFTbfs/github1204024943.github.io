@@ -8,6 +8,12 @@ body {
     flex-direction:column;
 }
 
+header{display: flex;background-image:url('http://ku.90sjimg.com/back_pic/05/06/96/87597191e0bea16.jpg');
+       background-position:center;
+       background-size: cover;
+       justify-content：flex-start;
+        border: 2px solid black;}
+
 main {
     display: flex;
     flex: auto ;
